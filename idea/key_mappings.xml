@@ -1,0 +1,64 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="Android.TraceViewSearch">
+    <keyboard-shortcut first-keystroke="control F" />
+  </action>
+  <action id="Annotate">
+    <keyboard-shortcut first-keystroke="shift control O" />
+  </action>
+  <action id="ChangesView.Rollback">
+    <keyboard-shortcut first-keystroke="control alt Z" />
+  </action>
+  <action id="CloseProject">
+    <keyboard-shortcut first-keystroke="alt F3" />
+  </action>
+  <action id="CompareClipboardWithSelection">
+    <keyboard-shortcut first-keystroke="alt K" />
+  </action>
+  <action id="Console.History.Browse" />
+  <action id="Coverage">
+    <keyboard-shortcut first-keystroke="shift F11" />
+  </action>
+  <action id="DebugClass">
+    <keyboard-shortcut first-keystroke="control alt F9" />
+  </action>
+  <action id="Find">
+    <keyboard-shortcut first-keystroke="control F" />
+  </action>
+  <action id="ForceRunToCursor" />
+  <action id="JavaEE.ExcludeFromValidation">
+    <keyboard-shortcut first-keystroke="control alt E" />
+  </action>
+  <action id="NewClass">
+    <keyboard-shortcut first-keystroke="shift J" />
+  </action>
+  <action id="PerforceDirect.Edit" />
+  <action id="RunConfiguration">
+    <keyboard-shortcut first-keystroke="shift F8" />
+  </action>
+  <action id="ShowBookmarks" />
+  <action id="StepOut" />
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="shift alt ENTER" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="shift alt DOWN" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="shift alt LEFT" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="shift alt RIGHT" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="shift alt UP" />
+  </action>
+  <action id="Vcs.ShowTabbedFileHistory">
+    <keyboard-shortcut first-keystroke="alt H" />
+  </action>
+  <action id="XDebugger.MuteBreakpoints">
+    <keyboard-shortcut first-keystroke="shift control F5" />
+  </action>
+  <action id="editRunConfigurations">
+    <keyboard-shortcut first-keystroke="alt F5" />
+  </action>
+</keymap>
